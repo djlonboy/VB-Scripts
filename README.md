@@ -2,4 +2,4 @@ This folder contains a series of VB scripts I created for intelligently sorting,
 
 The scripts were created as Excel macros in VB for Applications.
 
-Folder also includes an XLSM I created for collating availability from a raw data export from the company's booking system (Class For Windows), which includes multiple VB scripts as macros.
+Folder also includes an XLSM I created for collating availability stats from a raw data export from the company's booking system (Class For Windows), which includes multiple VB scripts as macros.
